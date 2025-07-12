@@ -1,0 +1,34 @@
+{
+  "name": "know-my-town-suryapet",
+  "version": "1.0.0",
+  "description": "A modern, responsive website showcasing the beautiful city of Suryapet, Telangana, India",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=8000 --open=/",
+    "dev": "live-server --port=8000 --open=/",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "suryapet",
+    "telangana",
+    "india",
+    "tourism",
+    "city",
+    "website",
+    "responsive",
+    "modern"
+  ],
+  "author": "Suryapet Tourism",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/know-my-town-suryapet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/know-my-town-suryapet/issues"
+  },
+  "homepage": "https://yourusername.github.io/know-my-town-suryapet"
+} 
